@@ -4,10 +4,14 @@
 const arberoois = {
 pronouns: "he" | "him",
 code: [JavaScript, HTML, CSS, C#],
-tools: [React, Node, Styled-Components],
+tools: [React, BootStrap, AntDesign, Styled-Components, MongoDB, NodeJS],
 }
 ```
+You cand find me 🌎:
 
+- [Twitter](https://twitter.com/agoshoUY)
+- [Instagram](https://www.instagram.com/beroisagustin/)
+- [LinkedIn](https://www.linkedin.com/in/agustin-rodriguez-berois-04b482187/)
 
 <!--
 **arberoois/arberoois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
