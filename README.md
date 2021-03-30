@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi i'm Agustin 👋 💻
+
+```js
+const arberoois = {
+pronouns: "he" | "him",
+code: [JavaScript, HTML, CSS, C#],
+tools: [React, Node, Styled-Components],
+}
+```
+
 
 <!--
 **arberoois/arberoois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
