@@ -1,5 +1,8 @@
 ### Hola, soy Agustin 👋 💻
 
+Tengo 20 años y soy de Montevideo, Uruguay.
+Soy estudiante de informática, actualmente me encuentro cursando el segundo año de la carrera de Analista en Tecnología de la Información, en ORT Uruguay.
+
 ```js
 const arberoois = {
 name: 'Agustín Rodríguez Berois',
