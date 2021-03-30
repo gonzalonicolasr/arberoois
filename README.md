@@ -1,13 +1,13 @@
-### Hi i'm Agustin 👋 💻
+### Hola, soy Agustin 👋 💻
 
 ```js
 const arberoois = {
-pronouns: "he" | "him",
-code: [JavaScript, HTML, CSS, C#],
+name: 'Agustín Rodríguez Berois',
+technologies: [JavaScript, HTML, CSS, C#],
 tools: [React, BootStrap, AntDesign, Styled-Components, MongoDB, NodeJS],
 }
 ```
-You cand find me 🌎:
+Puedes encontrarme en 🌎:
 
 - [Twitter](https://twitter.com/agoshoUY)
 - [Instagram](https://www.instagram.com/beroisagustin/)
